@@ -13,5 +13,10 @@ It includes Python scripts and Jupyter notebooks for analyzing datasets and crea
 ## 🛠️ Installation
 Ensure you have **Python 3.x** installed. Then install dependencies using:
 
-```bash
+bash
 pip install matplotlib plotly pandas numpy
+## 📌 View Google Colab Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/appalameenakshisindhuja/DAV-PROJECT/blob/main/DAVPROJECT.IPYNB)
+
+
+
